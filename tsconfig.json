@@ -17,6 +17,6 @@
     "forceConsistentCasingInFileNames": true,
     "useDefineForClassFields": false
   },
-  "include": ["src/**/*.ts"],
+  "include": ["src/**/*.ts", "src/glsl.d.ts.test"],
   "exclude": []
 }
